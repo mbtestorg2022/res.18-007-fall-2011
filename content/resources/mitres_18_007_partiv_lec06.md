@@ -3,6 +3,7 @@ content_type: resource
 description: New file Upload
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/b82909f6b6ed1edcdb16d5bc5171d37d_MITRES_18_007_partIV_lec06.pdf
 file_type: application/pdf
+parent_uid: ce4e61e5-fe97-e496-1d45-c844a0290e31
 resourcetype: Document
 title: MITRES_18_007_partIV_lec06.pdf
 uid: b82909f6-b6ed-1edc-db16-d5bc5171d37d
